@@ -1,0 +1,15 @@
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\bin\Debug\net6.0\Text_Rpg.exe
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\bin\Debug\net6.0\Text_Rpg.deps.json
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\bin\Debug\net6.0\Text_Rpg.runtimeconfig.json
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\bin\Debug\net6.0\Text_Rpg.dll
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\bin\Debug\net6.0\Text_Rpg.pdb
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.csproj.AssemblyReference.cache
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.AssemblyInfoInputs.cache
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.AssemblyInfo.cs
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.csproj.CoreCompileInputs.cache
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.dll
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\refint\Text_Rpg.dll
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.pdb
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\Text_Rpg.genruntimeconfig.cache
+C:\Users\맹주한-PC\source\repos\Text_Rpg\Text_Rpg\obj\Debug\net6.0\ref\Text_Rpg.dll
